@@ -7,6 +7,13 @@ class Calculator
         int Add (double, double);
         int Sub (double, double);
         int Mul (double, double);
+
+//Adding some comments
+//Second line
+//...
+//More lines
+//Final line
+
 };
 
 #endif//CALCULATOR_H
